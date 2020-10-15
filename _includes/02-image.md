@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![pitcure of Christina holding a spoon to eat a crepe](https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/119886944_3213421625439531_7864901727011072213_o.jpg?_nc_cat=109&_nc_sid=09cbfe&_nc_ohc=FKBZO4kFv0oAX-KKlhv&_nc_ht=scontent-iad3-1.xx&oh=42a497ac5567b888e9663896c835eff1&oe=5FAF4941)
